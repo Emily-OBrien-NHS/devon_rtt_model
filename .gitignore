@@ -1,5 +1,7 @@
 # Ignore all the output directory and all files in it
 /output/**
+# Ignore notes folder
+/Notes/**
 # R Project files
 *.Rproj
 # History files

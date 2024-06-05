@@ -18,7 +18,7 @@ library(gganimate)
 library(plotly)
 
 # Load the RObj data
-load(file = 'D:/Workspace/devon_rtt_model/output/RH8_C130/RH8_C130.RObj')
+load(file = 'C:/Users/obriene/Projects/devon_rtt_model/output/MY_EXAMPLE_SIM/MY_EXAMPLE_SIM.RObj')
 
 subset_list <- list('>=104 wks' = c(104),
                     '>=78 wks' = c(78:104),

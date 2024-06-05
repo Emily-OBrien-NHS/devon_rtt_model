@@ -136,7 +136,7 @@ fnWrite3dArray <- function(array, filename, bool_wl_special_case = FALSE){
 # ****************************
 
 # [DEVELOPMENT: This ought to be changed to command line argument input to aid automation for trusts]
-inputfile <- './input/RH8_C130.xlsx'
+inputfile <- './input/example_simulation.xlsx'
 
 # Initiate timer
 dtStart <- Sys.time()
